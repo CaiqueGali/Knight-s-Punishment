@@ -35,6 +35,6 @@ Cutscenes will be used to tell the backstory, character development, and key mom
 
 https://github.com/CaiqueGali/Knight-s-Punishment/assets/115173387/41cb559e-f97b-4f93-9891-472ed50130a0
 
-
+- More coming soon! :D
 
 
