@@ -1,6 +1,6 @@
 # Knight-s-Punishment - My first experience creating games 👾
 
-- 2D Game im currently working as a hobby, the game is been made with GODOT engine.
+- 2D Game im currently working as a hobby, the game has been made with GODOT engine.
 
 # History
 In the magical world of Eldoria, the gods imposed a punishment on Sirus, a noble knight who dared to challenge their power. Sirus, a proud and brave hero, was cursed to live a life of eternal combat, facing increasingly difficult challenges. He is condemned to explore a mysterious and treacherous kingdom known as the Eternal Forest.
